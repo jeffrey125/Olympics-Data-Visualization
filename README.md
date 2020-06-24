@@ -1,5 +1,7 @@
 # Olympics Data Visualization Summary
 **Note the tableau workbook is in the dataset**
+
+
 A Data Visualization through the use of Jupyter Notebook, Pandas, Python, Matplotlib and Seaborn and Tableau.
 
 Reference for the Dataset: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/kernels?sortBy=hotness&group=everyone&pageSize=20&datasetId=31029&tagIds=13201
